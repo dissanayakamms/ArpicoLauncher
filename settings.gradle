@@ -1,0 +1,2 @@
+rootProject.name='ArpicoLauncher'
+include ':app'
